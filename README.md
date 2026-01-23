@@ -11,8 +11,8 @@ completed while following the IBM Machine Learning curriculum.
 - Machine Learning Algorithms
 
 ## Projects
-- Weather Prediction System
-- SMS Spam Detection
+-Rain Prediction System
+
 
 ## Tools Used
 Python, Pandas, NumPy, Scikit-learn, Matplotlib
